@@ -33,7 +33,7 @@
 
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![Screenshot 2023-12-19 153555](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/f387266e-2821-4084-902d-80dfc9b13845)
+![Screenshot 2023-12-19 160134](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/7f20b109-68f0-445b-8a5b-873857a88344)
 
 ![Screenshot 2023-12-19 153900](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/bbbb216b-6565-46b4-af8a-b6f751a55783)
 
@@ -50,8 +50,8 @@
 ## Output:
 ![Screenshot 2023-12-19 153900](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/bbbb216b-6565-46b4-af8a-b6f751a55783)
 
-### Name:
-### Register Number:
+### Name: VINISHRAJ R
+### Register Number: 23014040
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
