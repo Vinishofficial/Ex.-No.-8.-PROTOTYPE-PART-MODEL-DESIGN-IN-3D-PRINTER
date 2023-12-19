@@ -48,7 +48,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2023-12-19 153900](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/bbbb216b-6565-46b4-af8a-b6f751a55783)
+![Screenshot 2023-12-19 153555](https://github.com/Vinishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146931793/deffaa48-42cd-4b05-ad0d-8c2e4f5cb138)
+
 
 ### Name: VINISHRAJ R
 ### Register Number: 23014040
